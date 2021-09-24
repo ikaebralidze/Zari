@@ -1,1 +1,2 @@
 # Zari
+ dice roll game 
